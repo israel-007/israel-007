@@ -13,9 +13,9 @@
 
 ###
 
-- 🔭 I’m currently working on [StashQuiver](https://github.com/israel-007/stashquiver)
+- 🔭 I’m currently working on [JBreeze](https://github.com/israel-007/JBreeze)
 
-- 👯 I’m looking to collaborate on [JBreeze](https://github.com/israel-007/JBreeze)
+- 👯 I’m looking to collaborate on [StashQuiver](https://github.com/israel-007/stashquiver)
 
 - 📫 How to reach me **abimboluoluyemi@gmail.com**
 
